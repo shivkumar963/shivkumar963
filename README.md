@@ -21,7 +21,7 @@ I’m a passionate **Web Developer & IoT Enthusiast** who loves building
 - 🌱 Learning **Node.js, MongoDB & ESP8266**
 - ⚙️ Experience with **Frontend + Basic Backend**
 - 🧠 Interested in **Automation, Dashboards & Sensors**
-- 📫 Email: **kshivk397499@gmail.com**
+- 📫 Email: **kshiv397499@gmail.com**
 
 ---
 
