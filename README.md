@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivkumar963/shivkumar963/main/github-banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
+
 <h3 align="center">Web Developer • IoT Enthusiast • Problem Solver</h3>
 
 <p align="center">
