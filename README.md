@@ -1,50 +1,66 @@
-6<h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
-<h3 align="center">Web Developer | IoT Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
+<h3 align="center">Web Developer • IoT Enthusiast • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivkumar963&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shivkumar963&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+I’m a passionate **Web Developer & IoT Enthusiast** who loves building  
+**real-world, practical and automation-based solutions**.
+
 - 🔭 Working on **Web Development & IoT Projects**
-- 🌱 Currently learning **Node.js, MongoDB & ESP8266**
-- 🛠️ Skilled in **HTML, CSS, JavaScript, MS Office**
-- 💬 Ask me about **Web, IoT & ESP8266**
-- 📫 Email: **kshiv397499@gmail.com**
+- 🌱 Learning **Node.js, MongoDB & ESP8266**
+- ⚙️ Experience with **Frontend + Basic Backend**
+- 🧠 Interested in **Automation, Dashboards & Sensors**
+- 📫 Email: **kshivk397499@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git,github,linux&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🔥 **IoT Based Gas Alert System**
-  - ESP8266, MQ-2, DHT Sensor, OLED Display
-  - Real-time Gas, Temperature & Humidity
-  - Telegram Alert System
+### 🔥 IoT Based Gas Alert System
+- ESP8266, MQ-2, DHT Sensor, OLED Display  
+- Real-time Gas, Temperature & Humidity  
+- Telegram Alert System for safety  
 
-- 🌐 **Portfolio Website**
-  - 👉 https://shivk.online
+### 🌐 Portfolio Website
+👉 https://shivk.online  
+- Personal portfolio  
+- Project showcase & skills  
 
-- 📊 **ESP8266 Web Dashboard**
-  - Live Sensor Monitoring
+### 📊 ESP8266 Web Dashboard
+- Live sensor monitoring  
+- Web-based interface  
+- Real-time updates  
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I’m Currently Improving
+- 🔹 Backend development (Node.js + MongoDB)
+- 🔹 IoT automation using ESP8266
+- 🔹 Clean UI dashboards
+- 🔹 Writing better project documentation
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivkumar963&theme=github_dark" />
-</p>
+---
+
+## 📈 GitHub Activity Overview
+
+- ⭐ Active learner & contributor  
+- 📦 Multiple public repositories  
+- 🔥 Regular commits & practice  
+- 🧩 Focus on **quality projects over quantity**
 
 ---
 
@@ -52,10 +68,10 @@
 
 <p>
   <a href="https://github.com/shivkumar963">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ _Thanks for visiting my profile! Feel free to explore my projects._
