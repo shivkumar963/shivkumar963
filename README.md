@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivkumar963/shivkumar963/main/github-banner.png" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;IoT+Enthusiast;Automation+Builder;Always+Learning+New+Things" />
+</p>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
