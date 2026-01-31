@@ -43,11 +43,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivkumar963&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivkumar963&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkumar963&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shivkumar963&theme=dark&hide_border=true" />
 </p>
 
 ---
