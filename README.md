@@ -3,6 +3,9 @@
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Web+Developer;IoT+Enthusiast;Automation+Builder;Always+Learning+New+Things" />
 </p>
+
+<hr style="height:1px;border:none;background-color:#30363d;" />
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
@@ -81,5 +84,8 @@ I’m a passionate **Web Developer & IoT Enthusiast** who loves building
 </p>
 
 ---
+<p align="center">
+  <i>“Build. Break. Learn. Repeat.”</i>
+</p>
 
 ⭐ _Thanks for visiting my profile! Feel free to explore my projects._
