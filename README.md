@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
+6<h1 align="center">Hi 👋, I'm Shiv Kumar</h1>
 <h3 align="center">Web Developer | IoT Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Node.js, MongoDB & ESP8266**
 - 🛠️ Skilled in **HTML, CSS, JavaScript, MS Office**
 - 💬 Ask me about **Web, IoT & ESP8266**
-- 📫 Email: **shivk3974998@gmail.com**
+- 📫 Email: **kshiv397499@gmail.com**
 
 ---
 
@@ -43,11 +43,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivkumar963&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkumar963&theme=tokyonight" />
 </p>
 
 ---
